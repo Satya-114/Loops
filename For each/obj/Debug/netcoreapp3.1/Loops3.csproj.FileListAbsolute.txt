@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\Loops3\bin\Debug\netcoreapp3.1\Loops3.exe
+C:\Users\Satya Maddila\source\repos\Loops3\bin\Debug\netcoreapp3.1\Loops3.deps.json
+C:\Users\Satya Maddila\source\repos\Loops3\bin\Debug\netcoreapp3.1\Loops3.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Loops3\bin\Debug\netcoreapp3.1\Loops3.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Loops3\bin\Debug\netcoreapp3.1\Loops3.dll
+C:\Users\Satya Maddila\source\repos\Loops3\bin\Debug\netcoreapp3.1\Loops3.pdb
+C:\Users\Satya Maddila\source\repos\Loops3\obj\Debug\netcoreapp3.1\Loops3.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Loops3\obj\Debug\netcoreapp3.1\Loops3.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Loops3\obj\Debug\netcoreapp3.1\Loops3.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Loops3\obj\Debug\netcoreapp3.1\Loops3.dll
+C:\Users\Satya Maddila\source\repos\Loops3\obj\Debug\netcoreapp3.1\Loops3.pdb
+C:\Users\Satya Maddila\source\repos\Loops3\obj\Debug\netcoreapp3.1\Loops3.genruntimeconfig.cache
