@@ -1,0 +1,13 @@
+C:\Users\Satya Maddila\source\repos\Loops2\bin\Debug\netcoreapp3.1\Loops2.exe
+C:\Users\Satya Maddila\source\repos\Loops2\bin\Debug\netcoreapp3.1\Loops2.deps.json
+C:\Users\Satya Maddila\source\repos\Loops2\bin\Debug\netcoreapp3.1\Loops2.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Loops2\bin\Debug\netcoreapp3.1\Loops2.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Loops2\bin\Debug\netcoreapp3.1\Loops2.dll
+C:\Users\Satya Maddila\source\repos\Loops2\bin\Debug\netcoreapp3.1\Loops2.pdb
+C:\Users\Satya Maddila\source\repos\Loops2\obj\Debug\netcoreapp3.1\Loops2.csprojAssemblyReference.cache
+C:\Users\Satya Maddila\source\repos\Loops2\obj\Debug\netcoreapp3.1\Loops2.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Loops2\obj\Debug\netcoreapp3.1\Loops2.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Loops2\obj\Debug\netcoreapp3.1\Loops2.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Loops2\obj\Debug\netcoreapp3.1\Loops2.dll
+C:\Users\Satya Maddila\source\repos\Loops2\obj\Debug\netcoreapp3.1\Loops2.pdb
+C:\Users\Satya Maddila\source\repos\Loops2\obj\Debug\netcoreapp3.1\Loops2.genruntimeconfig.cache
